@@ -1,0 +1,7 @@
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\bin\Debug\Calculadora basica consola.exe.config
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\bin\Debug\Calculadora basica consola.exe
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\bin\Debug\Calculadora basica consola.pdb
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\obj\Debug\Calculadora basica consola.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\obj\Debug\Calculadora basica consola.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\obj\Debug\Calculadora basica consola.exe
+C:\Users\gabri\Downloads\Calculadora basica c#\Calculadora basica consola\obj\Debug\Calculadora basica consola.pdb
