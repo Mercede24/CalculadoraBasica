@@ -16,7 +16,7 @@ namespace Calculadora_basica_consola
             int Suma; int Resta;
             int Multiplicación; double División;
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("Calculadora");
+            Console.WriteLine("Calculadora básica");
 
             //Aquí se le solicitan los datos al usuario.
             Console.WriteLine("Por favor ingrese su primer número");
